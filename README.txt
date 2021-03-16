@@ -21,7 +21,7 @@ All the results will be saved to the main/output/ folder.
 - Scikit-learn
 - Gym
 
-Reference:
+## Reference:
 
 [1] https://github.com/dennybritz/reinforcement-learning/blob/master/DP
 [2] https://github.com/dennybritz/reinforcement-learning/blob/master/TD
